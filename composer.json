@@ -1,7 +1,7 @@
 {
-    "name": "yfcmf/tp5-addons",
+    "name": "q889518/tp5-addons",
     "description": "addons package for thinkphp5",
-    "homepage": "https://github.com/rainfer520/tp5-addons",
+    "homepage": "https://github.com/q889518/tp5-addons",
     "license": "Apache-2.0",
     "version": "1.0.2",
     "authors": [
@@ -11,7 +11,7 @@
         }
     ],
     "support": {
-        "issues": "https://github.com/rainfer520/tp5-addons/issues"
+        "issues": "https://github.com/q889518/tp5-addons/issues"
     },
     "require": {
         "php": ">=5.4.0",
