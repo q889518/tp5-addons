@@ -2,7 +2,7 @@
 The ThinkPHP5 Addons Package
 
 ## 安装
-> composer require yfcmf/tp5-addons
+> composer require q889518/tp5-addons
 
 ## 配置
 ### 公共配置
